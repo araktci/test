@@ -1,0 +1,17 @@
+@import url(./font/Font.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Vazir;
+}
+.main {
+  display: flex;
+  margin-top: 20px;
+  direction: rtl;
+  font-family: Vazir;
+}
+.link {
+  text-decoration: none;
+  color: inherit;
+}
